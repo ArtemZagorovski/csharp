@@ -1,0 +1,6 @@
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/bin/Debug/QuickSortTests.dll
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/bin/Debug/QuickSortTests.pdb
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/obj/Debug/QuickSortTests.csprojAssemblyReference.cache
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/obj/Debug/QuickSortTests.csproj.CoreCompileInputs.cache
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/obj/Debug/QuickSortTests.dll
+/Users/artemzagorovski/Documents/c#/QuickSortTests/QuickSortTests/obj/Debug/QuickSortTests.pdb
